@@ -12,6 +12,6 @@ Meu nome é Leticia dos Santos
 
 @leticiasans
 
-![](https://tenor.com/bu2mS.gif)
 ![](https://tenor.com/p6Y4yPxKOCr.gif)
+
 
