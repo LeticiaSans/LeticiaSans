@@ -2,7 +2,7 @@
 
 Meu nome é Leticia dos Santos
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -11,7 +11,9 @@ Meu nome é Leticia dos Santos
 00001129733233sp@al.educacao.sp.gov.br
 
 @leticiasans
-![](https://tenor.com/pt-BR/view/stucksixteen-monkey-monkey-phone-gif-26854765)
+
+![](https://media1.tenor.com/m/ucPDLxi-pqkAAAAd/giantsbetta-small-monkey.gif)
+
 
 
 
