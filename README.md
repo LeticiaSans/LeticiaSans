@@ -11,7 +11,6 @@ Meu nome é Leticia dos Santos
 00001129733233sp@al.educacao.sp.gov.br
 
 @leticiasans
-
 ![](https://tenor.com/p6Y4yPxKOCr.gif)
 
 
